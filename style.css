@@ -1,0 +1,26 @@
+
+
+.rounded-circle{
+	background-color: white;
+}
+.red-back{
+	background-color: #FFF4D5;
+	height:8vmax;
+}
+.blue-back{
+	background-color: #FFF4D5;
+	height:8vmax;
+}
+.padding{
+	padding:25px;
+	height:7vmax;
+}
+.green-back{
+	background-color: green;
+}
+.row{
+	border-style: outset;
+}
+.font{
+	font-size: 25px;
+}
